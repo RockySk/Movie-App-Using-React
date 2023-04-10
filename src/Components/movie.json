@@ -1,0 +1,303 @@
+[
+    {
+        "imdbID": "tt7838252",
+        "Title": "K.G.F: Chapter 1",
+        "Year": "2018",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDNlNzBjMGUtYTA0Yy00OTI2LWJmZjMtODliYmUyYTI0OGFmXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_QL75_UX380_CR0,4,380,562_.jpg"
+    },
+
+    {
+        "imdbID": "tt10698680",
+        "Title": "K.G.F: Chapter 2",
+        "Year": "2022",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTdjNGQ0ZjEtMWExYS00ZTNjLWE4YjAtM2U1MWIzZWVlZDAwXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_FMjpg_UY4096_.jpg"
+    },
+
+    
+    {
+        "imdbID": "tt0371746",
+        "Title": "Iron Man",
+        "Year": "2008",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3OTg5NjUxNTdeQTJeQWpwZ15BbWU3MDg0MDE3NTQ@._V1_FMjpg_UX426_.jpg"
+    },
+    {
+        "imdbID": "tt1228705",
+        "Title": "Iron Man 2",
+        "Year": "2010",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGVkNDAyM2EtYzYxYy00ZWUxLTgwMjgtY2VmODE5OTk3N2M5XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_QL75_UY414_CR1,0,280,414_.jpg"
+    },
+    {
+        "imdbID": "tt1228705",
+        "Title": "Iron Man 3",
+        "Year": "2013",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_QL75_UY562_CR7,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt2395427",
+        "Title": "Captain America: The First Avenger",
+        "Year": "2011",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTkxYmYzNGMtYjU0ZC00YjNjLWIwYmQtOGU3ZTc2ZjkzZjliXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_FMjpg_UX376_.jpg"
+    },
+    {
+        "imdbID": "tt0458339",
+        "Title": "Captain America: The Winter Soldier",
+        "Year": "2014",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_QL75_UY562_CR3,0,380,562_.jpghttps://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_QL75_UY562_CR3,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt3498820",
+        "Title": "Captain America: Civil War",
+        "Year": "2016",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt0848228",
+        "Title": "The Avengers",
+        "Year": "2012",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+        "imdbID": "tt4154756",
+        "Title": "Avengers: Infinity War",
+        "Year": "2018",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+    {
+        "imdbID": "tt4154796",
+        "Title": "Avengers: Endgame",
+        "Year": "2019",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX280_CR0,0,280,414_.jpg"
+    },
+  
+    {
+        "imdbID": "tt4154664",
+        "Title": "Captain Marvel",
+        "Year": "2019",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt3480822",
+        "Title": "Black Widow",
+        "Year": "2019",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt10676048",
+        "Title" : "The Marvels",
+        "Year" : "2023",
+        "Poster" : "https://m.media-amazon.com/images/M/MV5BNjVhNDNjYzctZjU2NC00OTM1LWE5OWItNDA3MDFmNzNjZDlkXkEyXkFqcGdeQXVyMTU5OTc2NTk@._V1_QL75_UY562_CR35,0,380,562_.jpg"
+
+    },
+    
+    {
+        "imdbID": "tt2364582",
+        "Title" : "Agents of S.H.I.E.L.D.",
+        "Year" : "2013 - 2020",
+        "Poster" : "https://m.media-amazon.com/images/M/MV5BMTkwODYyMjgzOV5BMl5BanBnXkFtZTgwODAzMTE5MjE@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+
+    },
+    {
+        "imdbID": "tt10168312",
+        "Title" : "what IF....?",
+        "Year" : "2021",
+        "Poster" : "https://m.media-amazon.com/images/M/MV5BOGYwYTA5M2QtMTk3Zi00ZjdjLWFkNDUtYzg4MjM0ZGI0MGU1XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_QL75_UX380_CR0,0,380,562_.jpg"
+
+    },
+    {
+        "imdbID": "tt9419884",
+        "Title" : "Doctor Strange in the Multiverse of Madness",
+        "Year" : "2022",
+        "Poster" : "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_QL75_UX380_CR0,0,380,562_.jpg"
+
+    },
+
+    {
+        "imdbID": "tt0096895",
+        "Title": "Batman",
+        "Year": "1998",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_.jpg"
+    },
+    {
+        "imdbID": "tt0468569",
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2975590",
+        "Title": "Batman v Superman: Dawn of Justice",
+        "Year": "2016",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt1345836",
+        "Title": "The Dark Knight Rises",
+        "Year": "2012",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0372784",
+        "Title": "Batman Begins",
+        "Year": "2005",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY562_CR0,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt4116284",
+        "Title": "The LEGO Batman Movie",
+        "Year": "2017",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0112462",
+        "Title": "Batman Forever",
+        "Year": "1995",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY562_CR0,0,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt0118688",
+        "Title": "Batman & Robin",
+        "Year": "1997",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0103776",
+        "Title": "Batman Returns",
+        "Year": "1992",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0076759",
+        "Title": "Star Wars",
+        "Year": "1977",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX380_CR0,9,380,562_.jpg"
+    },
+    {
+        "imdbID": "tt2527336",
+        "Title": "Star Wars: The Last Jedi",
+        "Year": "2017",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2488496",
+        "Title": "Star Wars: The Force Awakens",
+        "Year": "2015",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOTAzODEzNDAzMl5BMl5BanBnXkFtZTgwMDU1MTgzNzE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0120915",
+        "Title": "Star Wars: Episode I - The Phantom Menace",
+        "Year": "1999",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYTRhNjcwNWQtMGJmMi00NmQyLWE2YzItODVmMTdjNWI0ZDA2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt1185834",
+        "Title": "Star Wars: The Clone Wars",
+        "Year": "2008",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTI1MDIwMTczOV5BMl5BanBnXkFtZTcwNTI4MDE3MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0080684",
+        "Title": "Star Wars: Episode V - The Empire Strikes Back",
+        "Year": "1980",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0121766",
+        "Title": "Iron Man",
+        "Year": "2005",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_UY268_CR9,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0086190",
+        "Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0121765",
+        "Title": "Star Wars: Episode II - Attack of the Clones",
+        "Year": "2002",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    
+    {
+        "imdbID": "tt6438108",
+        "Title": "Star Wars: Lost Horizons",
+        "Year": "2018",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2076340",
+        "Title": "Star Wars: Star Warriors ",
+        "Year": "2007",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYjUxN2EwNTEtZjEwYy00YmZiLTg4MDUtZmIxMzQ3MGZlYWU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAwODkyODg@._V1_UY268_CR82,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0086190",
+        "Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0121765",
+        "Title": "Star Wars: Episode II - Attack of the Clones",
+        "Year": "2002",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+
+    {
+        "imdbID": "tt6438108",
+        "Title": "Star Wars: Lost Horizons",
+        "Year": "2018",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2076340",
+        "Title": "Star Wars: Star Warriors ",
+        "Year": "2007",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYjUxN2EwNTEtZjEwYy00YmZiLTg4MDUtZmIxMzQ3MGZlYWU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAwODkyODg@._V1_UY268_CR82,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0121766",
+        "Title": "Iron Man",
+        "Year": "2005",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_UY268_CR9,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0086190",
+        "Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0086190",
+        "Title": "Star Wars: Episode VI - Return of the Jedi",
+        "Year": "1983",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt0121765",
+        "Title": "Star Wars: Episode II - Attack of the Clones",
+        "Year": "2002",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    
+    {
+        "imdbID": "tt6438108",
+        "Title": "Star Wars: Lost Horizons",
+        "Year": "2018",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2076340",
+        "Title": "Star Wars: Star Warriors ",
+        "Year": "2007",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BYjUxN2EwNTEtZjEwYy00YmZiLTg4MDUtZmIxMzQ3MGZlYWU5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNzAwODkyODg@._V1_UY268_CR82,0,182,268_AL_.jpg"
+    },
+    {
+        "imdbID": "tt2275656",
+        "Title": "Star Wars: Threads of Destiny",
+        "Year": "2014",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTkwMzM2NDQ1Nl5BMl5BanBnXkFtZTgwMzAyODExMTE@._V1_UX182_CR0,0,182,268_AL_.jpg"
+    }
+]
